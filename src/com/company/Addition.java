@@ -11,4 +11,9 @@ public class Addition {
         int c = a+b;
         System.out.println("Addition using function:"+c);
     }
+    public static int addition(){
+        int a = 10;
+        int b = 30;
+        return a+b;
+    }
 }
