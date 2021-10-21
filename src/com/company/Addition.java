@@ -7,4 +7,8 @@ public class Addition {
         int c = a + b;
         System.out.println("addition is "+c);
     }
+    public static void addition(int a, int b){
+        int c = a+b;
+        System.out.println("Addition using function:"+c);
+    }
 }
